@@ -3,7 +3,7 @@ import React from 'react'
 const Sidebar = () => {
     return (
         <div>
-Sidebar
+<div className='flex gap-3 justify-'></div>
         </div>
     )
 }
