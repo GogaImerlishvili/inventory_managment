@@ -7,6 +7,7 @@ const Dashboard= () => {
       <h1>HHello</h1>
       <p>Description</p>
       <span>Title</span>
+      <h2>Inventory</h2>
     </div>
   )
 }
